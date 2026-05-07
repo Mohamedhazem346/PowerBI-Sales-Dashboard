@@ -8,6 +8,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 📍 The analysis is backed by a strong statistical foundation to ensure data accuracy.  
 
 ### 🎯 Project Objectives 
+
 ✅ Calculate and visualize total revenue, order volume, and tax amounts.
 
 ✅ Analyze sales trends over multiple years (2011-2014).
@@ -17,6 +18,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 ✅ Monitor order status efficiency (Approved, Shipped, Backordered, etc.). 
 
 ## 📈 Key Performance Indicators (KPIs)
+
 💰 Total Due: $33.93M
 
 📦 Total Orders: 1,465
@@ -27,6 +29,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 
 🚚 Total Freight: $915.97K 
 ### 🔑 Key Keywords
+
 🔍 Data Analytics: Interpreting complex datasets to provide business insights.
 
 🎨 Data Visualization: Creating intuitive and interactive dashboards.
@@ -39,7 +42,8 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 
 ⚙️ ETL Process: Extracting, Transforming, and Loading data via Power Query. 
 
-## 🚀 Steps Followed to Create Dashboard 
+## 🚀 Steps Followed to Create Dashboard  
+
 1️⃣ Gather Data: Imported sales data from Excel sources.
 
 2️⃣ Data Transformation: Cleaned and shaped data using Power Query.
