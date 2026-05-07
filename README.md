@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard | Project 
 This repository provides a step-by-step approach to creating a comprehensive sales analysis dashboard that visualizes key performance indicators (KPIs), sales trends, and comparative analysis using Power BI. 
-## Project Overview 
+## 📜 Project Overview 
 📍 This project transforms raw retail data into an interactive decision-making tool.
 
 📍 It focuses on tracking sales performance across different dimensions like time, geography, and product categories.
@@ -59,4 +59,4 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 
 🚲 Top Category: Bikes dominate with 1,188 orders.
 
-🇨🇦 Regional Leader: Canada is the top-performing territory
+ 🇨🇦 Regional Leader: Canada is the top-performing territory
