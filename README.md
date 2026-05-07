@@ -1,48 +1,38 @@
-Sales Analysis - Power BI Project
-📜 Project Overview
-This project involves a comprehensive analysis of sales data to uncover performance trends, regional strengths, and product category insights. By integrating statistical foundations with advanced Power BI techniques, the project transforms raw data into an interactive decision-making tool.
+# Power BI Sales Dashboard | Project 
+This repository provides a step-by-step approach to creating a comprehensive sales analysis dashboard that visualizes key performance indicators (KPIs), sales trends, and comparative analysis using Power BI. 
+## Project Overview 
+This project transforms raw retail data into an interactive decision-making tool. It focuses on tracking sales performance across different dimensions like time, geography, and product categories, backed by a strong statistical foundation. 
+### 🎯 Project Objectives 
+Calculate and visualize total revenue, order volume, and tax amounts.
+Analyze sales trends over multiple years (2011-2014).
+Identify top-performing territories and product categories.
+Monitor order status efficiency (Approved, Shipped, Backordered, etc.). 
 
-📊 Data Source
-The analysis is based on a retail sales dataset (Sales.xlsx) containing detailed records of orders, customers, territories, and product categories.
+## 📈 Key Performance Indicators (KPIs)
+Total Due: $33.93M
+Total Orders: 1,465
+Sub-Total: $30.09M
+Total Tax: $2.93M
+Total Freight: $915.97K 
+### 🔑 Key Keywords
+Data Analytics: Interpreting complex datasets to provide business insights.
+Data Visualization: Creating intuitive and interactive dashboards.
+Statistical Analysis: Using descriptive statistics to validate trends.
+Business Intelligence (BI): Leveraging Power BI for data-driven decision-making.
+DAX (Data Analysis Expressions): Crafting advanced measures for financial reporting.
+ETL Process: Extracting, Transforming, and Loading data via Power Query. 
+### 🏆 Skills Demonstrated
+Statistical Foundation: Applied descriptive statistics to identify trends.
+Data Modeling: Designed a Star Schema to link Sales, Categories, and Territories.
+UI/UX Design: Implemented a dark-themed, professional interface. 
+## 🚀 Steps Followed to Create Dashboard
+Gather Data: Imported sales data from Excel sources.
+Data Transformation: Cleaned and shaped data using Power Query.
+Statistical Validation: Ensured data accuracy using statistical principles.
+Data Modeling: Established table relationships for seamless filtering.
+Report Development: Built interactive visuals including Area Charts, Bar Charts, and Combo Charts.
+### 💡 Conclusion & Insights
+Growth Trend: Significant order surge between 2011 and 2013.
+Top Category: Bikes dominate with 1,188 orders.
+Regional Leader: Canada is the top-performing territory. 
 
-🎯 Problem Statement & Project Goal
-Business stakeholders needed a clear way to monitor growth and identify underperforming regions. The goal was to create a dynamic dashboard that tracks high-level financial KPIs while allowing for granular drill-downs into order status and product performance.
-
-📈 Key Performance Indicators (KPIs) & DAX Measures
-The dashboard tracks several critical metrics to provide an immediate pulse of the business:
-
-Total Revenue (Total Due): $33.93M.
-
-Order Volume: 1,465 total orders.
-
-Financial Breakdown: Sub-total of $30.09M, Tax amount of $2.93M, and Total Freight of $915.97K.
-
-Customer Base: 294 unique customers analyzed.
-
-🛠️ Data Cleaning & Transformation (Power Query)
-Leveraging skills from the Introduction to Power BI course, the data underwent rigorous preparation:
-
-Data Profiling: Checked for missing values and ensured correct data types for dates and financial columns.
-
-Custom Columns: Created calculated columns to facilitate better time-series and categorical analysis.
-
-🔗 Data Modeling (Relationships)
-The project utilizes a structured data model to ensure accurate filtering across different visuals:
-
-Star Schema: Organized data into logical tables to optimize performance.
-
-Relationships: Established one-to-many relationships between territories, categories, and orders to allow seamless data exploration.
-
-💡 Key Insights
-Growth Peak: Orders surged significantly from 84 in 2011 to 708 in 2013.
-
-Top Category: Bikes dominate the sales landscape with 1,188 orders.
-
-Regional Leader: Canada stands out as the top-performing territory in both order count and revenue.
-
-🏆 Skills Demonstrated
-Statistical Thinking: Applied descriptive statistics to identify trends and validate data distributions.
-
-Data Visualization: Designed an intuitive UI with a dark theme and consistent color palettes for better readability.
-
-Analytical Reporting: Translated complex data into clear business narratives.
