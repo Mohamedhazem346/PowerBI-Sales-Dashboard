@@ -51,8 +51,12 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 3️⃣ Statistical Validation: Ensured data accuracy using statistical principles.
 
 4️⃣ Data Modeling: Established table relationships for seamless filtering.
+
 5️⃣ Report Development: Built interactive visuals including Area Charts, Bar Charts, and 
-### 💡 Conclusion & Insights
+### 💡 Conclusion & Insights 
+
 🌟 Growth Trend: Significant order surge between 2011 and 2013.
+
 🚲 Top Category: Bikes dominate with 1,188 orders.
+
 🇨🇦 Regional Leader: Canada is the top-performing territory
