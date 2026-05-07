@@ -2,7 +2,9 @@
 This repository provides a step-by-step approach to creating a comprehensive sales analysis dashboard that visualizes key performance indicators (KPIs), sales trends, and comparative analysis using Power BI. 
 ## Project Overview 
 📍 This project transforms raw retail data into an interactive decision-making tool.
+
 📍 It focuses on tracking sales performance across different dimensions like time, geography, and product categories.
+
 📍 The analysis is backed by a strong statistical foundation to ensure data accuracy.  
 ### 🎯 Project Objectives 
 ✅ Calculate and visualize total revenue, order volume, and tax amounts.
