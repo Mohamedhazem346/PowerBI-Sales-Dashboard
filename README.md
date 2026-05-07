@@ -7,7 +7,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 
 📍 The analysis is backed by a strong statistical foundation to ensure data accuracy.  
 
-### 🎯 Project Objectives 
+## 🎯 Project Objectives 
 
 ✅ Calculate and visualize total revenue, order volume, and tax amounts.
 
@@ -28,7 +28,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 📑 Total Tax: $2.93M
 
 🚚 Total Freight: $915.97K 
-### 🔑 Key Keywords
+## 🔑 Key Keywords
 
 🔍 Data Analytics: Interpreting complex datasets to provide business insights.
 
@@ -53,7 +53,7 @@ This repository provides a step-by-step approach to creating a comprehensive sal
 4️⃣ Data Modeling: Established table relationships for seamless filtering.
 
 5️⃣ Report Development: Built interactive visuals including Area Charts, Bar Charts, and 
-### 💡 Conclusion & Insights 
+## 💡 Conclusion & Insights 
 
 🌟 Growth Trend: Significant order surge between 2011 and 2013.
 
